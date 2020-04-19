@@ -1,0 +1,53 @@
+html,body{
+  padding:0px;
+  margin:0px;
+  background-color: black;
+  font-family: font-family: 'Satisfy', cursive;
+}
+
+h1{
+  color:white;
+}
+
+.heading{
+  padding:10px;
+  text-align:center;
+  text-decoration: underline;
+  text-shadow: 4px 4px 90px white;
+}
+
+div {
+  height:100%;
+  text-align: center;
+  background-color:black;
+}
+
+.quote-gen{
+  margin-top: 27vh;
+  width: 400px;
+  height:250px;
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 3px 3px 40px white;
+}
+
+.quote-container{
+  background-color: #67D29D;
+  border-radius: 10px;
+  border: 1px solid black;
+  height:205px;
+  padding-top: 10px;
+}
+
+.button-container{
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #67D29D;
+  height: 40px;
+}
+
+#quote{
+  margin-top:10px;
+  text-align: center;
+  font-family: 'Satisfy', cursive;
+}
